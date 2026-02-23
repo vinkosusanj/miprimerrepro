@@ -2,3 +2,6 @@
 Este es mi primer repositoriao para las clases de Git
 
 agregando linea para probar PULL
+
+AHora probare  Fetch + merge
+
